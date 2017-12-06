@@ -6,6 +6,6 @@ public class TestJUnit {
 	  //classe de testes
 	   public void testAdd() {
 	      String str= HelloWorld.getMessage();
-	      assertEquals("Hello World - Jenkins",str);
+	      assertEquals("Hello World - Jenkins2",str);
 	   }
 }
